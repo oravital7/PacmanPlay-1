@@ -7,7 +7,7 @@ Written by: Or Avital And Dana Morhaim
 
 General info
 --------
-This projace is based on GPS project, wich can be found at 
+This projace is based on GPS project, which can be found at 
 <a href="https://github.com/oravital7/Ex2">https://github.com/oravital7/Ex2</a>.
 
 
@@ -16,7 +16,7 @@ Routes Algorithm - How does it work
 The algorithm for calculating the roads for each Pacman takes in considiration 
 the time that each pacman already gone, and the time it will take him to get to the next fruit.
 
-In every iteration the algorithm choose the pacman with the higher priority - wich based on the factors above.
+In every iteration the algorithm choose the pacman with the higher priority - which based on the factors above.
 With that approach, every pacman is given a fair shot to eat Fruits.
 
 How to play
@@ -35,10 +35,10 @@ Features
 --------
 This game includes the following awesome features:
 
-- CSV import - you can save your game as a CSV file
+- CSV export - you can save your game as a CSV file
 <img src="./Icon/gamCsv.PNG" width="350" height="300">
 
-- KML import - you can save your game as a KML file, and watch the routes of pacmans in real life
+- KML export - you can save your game as a KML file, and watch the routes of pacmans in real life
 <img src="./Icon/gameInKml.PNG" width="350" height="300">
 
 Class Diagram
